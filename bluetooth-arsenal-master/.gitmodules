@@ -1,0 +1,87 @@
+[submodule "MiniBeacon"]
+	path = MiniBeacon
+	url = https://github.com/RedBearLab/MiniBeacon
+[submodule "hackrf_ble"]
+	path = hackrf_ble
+	url = https://github.com/vkchettimada/hackrf_ble
+[submodule "ubertooth-scripts"]
+	path = ubertooth-scripts
+	url = https://github.com/mountainraptor/ubertooth-scripts
+[submodule "pyubertooth"]
+	path = pyubertooth
+	url = https://github.com/hackgnar/pyubertooth
+[submodule "bigtooth"]
+	path = bigtooth
+	url = https://github.com/pcgeller/bigtooth
+[submodule "BLESuite"]
+	path = BLESuite
+	url = https://github.com/nccgroup/BLESuite
+[submodule "btlejuice"]
+	path = btlejuice
+	url = https://github.com/DigitalSecurity/btlejuice
+[submodule "btlejuice-python-bindings"]
+	path = btlejuice-python-bindings
+	url = https://github.com/DigitalSecurity/btlejuice-python-bindings
+[submodule "BLE-Security"]
+	path = BLE-Security
+	url = https://github.com/merculite/BLE-Security
+[submodule "btproxy"]
+	path = btproxy
+	url = https://github.com/conorpp/btproxy
+[submodule "Bluelog"]
+	path = Bluelog
+	url = https://github.com/MS3FGX/Bluelog
+[submodule "bt_rng"]
+	path = bt_rng
+	url = https://github.com/MS3FGX/bt_rng
+[submodule "Bluefog"]
+	path = Bluefog
+	url = https://github.com/MS3FGX/Bluefog
+[submodule "BLESniffer_Python"]
+	path = BLESniffer_Python
+	url = https://github.com/vshymanskyy/BLESniffer_Python
+[submodule "wireshark-nordic-ble-lua"]
+	path = wireshark-nordic-ble-lua
+	url = https://github.com/tewarid/wireshark-nordic-ble-lua
+[submodule "btle-sniffer"]
+	path = btle-sniffer
+	url = https://github.com/scipag/btle-sniffer
+[submodule "bleah"]
+	path = bleah
+	url = https://github.com/evilsocket/bleah
+[submodule "HackRF-CUDA-Bluetooth-Sniffer"]
+	path = HackRF-CUDA-Bluetooth-Sniffer
+	url = https://github.com/estradjm/HackRF-CUDA-Bluetooth-Sniffer
+[submodule "bluepot"]
+	path = bluepot
+	url = https://github.com/andrewmichaelsmith/bluepot
+[submodule "CVE-2017-0785"]
+	path = CVE-2017-0785
+	url = https://github.com/ojasookert/CVE-2017-0785
+[submodule "blueborne"]
+	path = blueborne
+	url = https://github.com/pieterbork/blueborne
+[submodule "sdp-leak-it"]
+	path = sdp-leak-it
+	url = https://github.com/Sydpy/sdp-leak-it
+[submodule "ubertooth"]
+	path = ubertooth
+	url = https://github.com/greatscottgadgets/ubertooth
+[submodule "BLESuite-CLI"]
+	path = BLESuite-CLI
+	url = https://github.com/nccgroup/BLESuite-CLI
+[submodule "BLE-Replay"]
+	path = BLE-Replay
+	url = https://github.com/nccgroup/BLE-Replay
+[submodule "blue_hydra"]
+	path = blue_hydra
+	url = https://github.com/pwnieexpress/blue_hydra
+[submodule "ssn"]
+	path = ssn
+	url = https://github.com/AquaL1te/ssn
+[submodule "BTBandit"]
+	path = BTBandit
+	url = https://github.com/TheAlbatross279/BTBandit
+[submodule "gattacker"]
+	path = gattacker
+	url = https://github.com/securing/gattacker
